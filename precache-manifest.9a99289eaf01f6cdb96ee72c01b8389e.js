@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c906de39e5ce4870403ea40046f108f",
+    "revision": "7ab8ba430fa3dcca5501aa894346c0f2",
     "url": "/test-framer-motion/index.html"
   },
   {
-    "revision": "9516277942e15b0d272b",
-    "url": "/test-framer-motion/static/css/main.f6d0fc12.chunk.css"
+    "revision": "1f0bee6c82aee2f636f4",
+    "url": "/test-framer-motion/static/css/main.62533e36.chunk.css"
   },
   {
     "revision": "0cedb0ce819cd5c6acdc",
@@ -16,11 +16,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/test-framer-motion/static/js/2.48bb8971.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9516277942e15b0d272b",
+    "revision": "1f0bee6c82aee2f636f4",
     "url": "/test-framer-motion/static/js/main.627c0b7a.chunk.js"
   },
   {
     "revision": "64c5a20e56bd206b1001",
     "url": "/test-framer-motion/static/js/runtime-main.c588ad0d.js"
+  },
+  {
+    "revision": "6622495a6a3de6f76b49d5858a484bfa",
+    "url": "/test-framer-motion/static/media/Quicksand-Light.6622495a.woff"
+  },
+  {
+    "revision": "81813616a9a8a81928fcf829d84c5477",
+    "url": "/test-framer-motion/static/media/Quicksand-Light.81813616.woff2"
   }
 ]);

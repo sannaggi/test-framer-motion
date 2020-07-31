@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-framer-motion/static/css/main.f6d0fc12.chunk.css",
+    "main.css": "/test-framer-motion/static/css/main.62533e36.chunk.css",
     "main.js": "/test-framer-motion/static/js/main.627c0b7a.chunk.js",
     "main.js.map": "/test-framer-motion/static/js/main.627c0b7a.chunk.js.map",
     "runtime-main.js": "/test-framer-motion/static/js/runtime-main.c588ad0d.js",
@@ -8,15 +8,16 @@
     "static/js/2.48bb8971.chunk.js": "/test-framer-motion/static/js/2.48bb8971.chunk.js",
     "static/js/2.48bb8971.chunk.js.map": "/test-framer-motion/static/js/2.48bb8971.chunk.js.map",
     "index.html": "/test-framer-motion/index.html",
-    "precache-manifest.070563ef1a1c5b1d3f718c2ca7fccd45.js": "/test-framer-motion/precache-manifest.070563ef1a1c5b1d3f718c2ca7fccd45.js",
+    "precache-manifest.9a99289eaf01f6cdb96ee72c01b8389e.js": "/test-framer-motion/precache-manifest.9a99289eaf01f6cdb96ee72c01b8389e.js",
     "service-worker.js": "/test-framer-motion/service-worker.js",
-    "static/css/main.f6d0fc12.chunk.css.map": "/test-framer-motion/static/css/main.f6d0fc12.chunk.css.map",
-    "static/js/2.48bb8971.chunk.js.LICENSE.txt": "/test-framer-motion/static/js/2.48bb8971.chunk.js.LICENSE.txt"
+    "static/css/main.62533e36.chunk.css.map": "/test-framer-motion/static/css/main.62533e36.chunk.css.map",
+    "static/js/2.48bb8971.chunk.js.LICENSE.txt": "/test-framer-motion/static/js/2.48bb8971.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/test-framer-motion/static/media/Quicksand-Light.81813616.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c588ad0d.js",
     "static/js/2.48bb8971.chunk.js",
-    "static/css/main.f6d0fc12.chunk.css",
+    "static/css/main.62533e36.chunk.css",
     "static/js/main.627c0b7a.chunk.js"
   ]
 }
