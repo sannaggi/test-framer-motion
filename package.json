@@ -2,7 +2,7 @@
   "name": "ninjajoint",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sannaggi.github.io/test-framer-motion",
+  "homepage": "https://sannaggi.github.io/test-framer-motion",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
